@@ -19,14 +19,16 @@
                                 Actividades divertidas para aprender a reciclar <br> <br>
                                 Clasificación de residuos: Puedes  separar residuos en diferentes categorías (plástico, papel, vidrio, orgánicos)
                                 usando cajas de colores. <br>
-                               <p  style="background-color:#644464; color:white">-El contenedor gris van residuos en generales </p>  <br>
-                               <p  style="background-color:orange; color:white">-El contenedor naranja son para residuos organicos, como restos de comida, o desechos no aprovechables.</p>  <br>
-                               <p style="background-color:green; color:white">-El contenedor verde es para todo lo que este relacionado con el vidrio.</p>   <br>
-                               <p  style="background-color:yellow; color:white">-El contenedor amarillo es para plastico o metales, como tus juguetes cuando ya no sirvan.</p>   <br>
-                               <p  style="background-color:blue; color:white">-El contenedor azul es para papel.</p>  <br> 
-                               <p  style="background-color:red; color:white">-El contenedor rojo es para todos los desechos que un hospital pueda producir.</p>  
+                                    <ul>
+                                        <li style="border-radius: 2.5px; width: 300px; height: 30px; background-color:#7f8c8d; color:white; margin-bottom: 10px; margin-top: 50px;">El contenedor gris van residuos en generales</li>
+                                        <li style="border-radius: 2.5px; width: 300px; height: 30px; background-color: #f39c12; color:white; margin-bottom: 10px;">El contenedor naranja son para residuos organicos, como restos de comida, o desechos no aprovechables.</li>
+                                        <li style="border-radius: 2.5px; width: 300px; height: 30px; background-color:#2ecc71; color:white; margin-bottom: 10px;">El contenedor verde es para todo lo que este relacionado con el vidrio.</li>
+                                        <li style="border-radius: 2.5px; width: 300px; height: 30px; background-color:#ece135; color:white; margin-bottom: 10px;">El contenedor amarillo es para plastico o metales, como tus juguetes cuando ya no sirvan.</li>
+                                        <li style="border-radius: 2.5px; width: 300px; height: 30px; background-color:#2e86c1; color:white; margin-bottom: 10px;">El contenedor azul es para papel.</li>
+                                        <li style="border-radius: 2.5px; width: 300px; height: 30px; background-color:#e74c3c; color:white; margin-bottom: 10px;">El contenedor rojo es para todos los desechos que un hospital pueda producir.</li>
+                                    </ul>
 
-                                </p>
+
                         </div>
                         <div class="col-md-6">
                             <div class="text-center">
