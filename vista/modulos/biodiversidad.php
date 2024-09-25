@@ -12,13 +12,8 @@
                         <div class="col-md-6">
                             <h1 class="text-center" style="color:white">Misión del SENA</h1>
                             <p class="mb-0" style="color:white"><br>
-
-                                <!-- El Servicio Nacional de Aprendizaje (SENA) está comprometido con la formación de los
-                                colombianos,
-                                brindándoles competencias técnicas, tecnológicas y emprendedoras para contribuir al
-                                desarrollo económico y social del país. Su misión es mejorar la competitividad de las
-                                empresas y la calidad de vida de los ciudadanos mediante la educación y la capacitación
-                                gratuita.</p> -->
+                                texto
+                                </p> 
                         </div>
                         <div class="col-md-6">
                             <div class="text-center">
