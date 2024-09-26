@@ -22,10 +22,7 @@
                         </div>
                         <div class="col-md-6">
                             <div class="text-center">
-                                <!-- <div class="col-md-6">
-                                    <img src="https://paolitakano.wordpress.com/wp-content/uploads/2016/08/sena-logotipo.jpg?w=665"
-                                        alt="Logo SENA" class="img-fluid" style="width: 150px;">
-                                </div> -->
+                                
                             </div><br><br><br><br><br><br><br><br>
                             <h1 class="text-center" style="color:white">Vision del SENA</h1>
 

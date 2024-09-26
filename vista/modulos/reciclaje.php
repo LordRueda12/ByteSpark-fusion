@@ -48,7 +48,7 @@
                                ¡Ser creativo es una gran forma de cuidar el planeta! <br> <br>
 
                                Te voy a enseñar un proyecto increible, creado con objetos reciclables, vamos a descubrir un nuevo mundo juntos. <br>
-                               <iframe width="450" height="auto" src="https://www.youtube.com/embed/5RiyftkKNkA" title="Creación Cohete. Reciclaje #ModoBilzyPap" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                               <iframe width="490px" height="250px" src="https://www.youtube.com/embed/5RiyftkKNkA" title="Creación Cohete. Reciclaje #ModoBilzyPap" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                             </div>
                     </div>
                 </div>

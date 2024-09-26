@@ -27,7 +27,7 @@
 
                             Nos da comida y aire: La biodiversidad es responsable de que tengamos alimentos como frutas, verduras, carne y pescado. También las plantas ayudan a limpiar el aire que respiramos. <br> <br>
 
-                            Nos protege: Las plantas y animales ayudan a mantener el equilibrio en la naturaleza. Un ecosistema sano puede protegernos de problemas como plagas o enfermedades.
+                            Nos protege: Las plantas y animales ayudan a mantener el equilibrio en la naturaleza. Un ecosistema sano puede protegernos de problemas como plagas o enfermedades. <br> <br>git 
 
                             Nos da medicinas: Muchas medicinas vienen de las plantas. ¡Al cuidar la biodiversidad, cuidamos también nuestra salud!</p>
                             </div>
